@@ -8,10 +8,9 @@
 
 - 💻: I am a ninth semester Bioengineering student.💻<br><br>
 - 🔭: I’m currently working on projects in matlab. 🧠🤖<br>
- 
-[![Generic badge](https://www.mathworks.com/products/matlab.html)
 
-![Logo de MATLAB](https://www.researchgate.net/profile/Giorgio-Zamataro/publication/318227414/figure/fig3/AS:650459299729415@1532092990538/Senal-PPG-usado-para-el-envio-tramite-serial.png)
+![image](https://github.com/stiven4270/stiven4270/assets/165412316/1f61fefe-a005-4e47-9e34-0ea15eeeb2c6)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stiven4270&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
