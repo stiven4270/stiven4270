@@ -9,8 +9,7 @@
 - 💻: I am a ninth semester Bioengineering student.💻<br><br>
 - 🔭: I’m currently working on projects in matlab. 🧠🤖<br>
 
-![image](https://github.com/stiven4270/stiven4270/assets/165412316/1f61fefe-a005-4e47-9e34-0ea15eeeb2c6)
-MATLAB
+![image](https://github.com/stiven4270/stiven4270/assets/165412316/1f61fefe-a005-4e47-9e34-0ea15eeeb2c6)MATLAB
 
 
 # 📊 GitHub Stats:
