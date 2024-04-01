@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">hello I'm Stiven
 </div>  
-  
+<img src=" ">
 # 💫 About Me:
 - 💻: I am a ninth semester Bioengineering student.💻<br><br>- 🔭: I’m currently working on projects in matlab. 🧠🤖<br>
 
@@ -17,6 +17,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=stiven4270&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=stiven4270&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
