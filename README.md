@@ -2,7 +2,7 @@
 <h1 align="center">Hello I'm Stiven
 </div>  
 <img src=" ">
-<br>
+
 # 💫 About Me:
 
 - 💻: I am a ninth semester Bioengineering student.💻<br><br>
