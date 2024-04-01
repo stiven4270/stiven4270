@@ -4,7 +4,8 @@
 <img src=" ">
     
 # 💫 About Me:
-- 💻: I am a ninth semester Bioengineering student.💻<br><br>- 🔭: I’m currently working on projects in matlab. 🧠🤖<br>
+- 💻: I am a ninth semester Bioengineering student.💻<br><br>
+- 🔭: I’m currently working on projects in matlab. 🧠🤖<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stiven4270&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
