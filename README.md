@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">hello I'm Stiven
-</div>
-  
+</div>  
 # 💫 About Me:
 - 💻: I am a ninth semester Bioengineering student.💻<br><br>- 🔭: I’m currently working on projects in matlab. 🧠🤖<br>
 
