@@ -10,7 +10,7 @@
 - 🔭: I’m currently working on projects in matlab. 🧠🤖
 <br>
 
-# 💻 COMPATIBILITY:
+# 💻 Compatibility:
 ![image](https://github.com/stiven4270/stiven4270/assets/165412316/1f61fefe-a005-4e47-9e34-0ea15eeeb2c6)MATLAB
 
 
