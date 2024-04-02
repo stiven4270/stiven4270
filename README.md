@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://blogs.sld.cu/modelos/files/2021/02/Fig10.png">
 <h1 align="center">Hello I'm Stiven
 </div>  
 <h1 align="center"> <a href=>DATABASE REPOSITORY OF SOME PHYSIOLOGICAL PARAMETERS TAKEN IN A LABORATORY FROM 56 DIFFERENT SUBJECTS                         
