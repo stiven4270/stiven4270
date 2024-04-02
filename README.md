@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://www.researchgate.net/publication/318227414/figure/fig3/AS:650459299729415@1532092990538/Senal-PPG-usado-para-el-envio-tramite-serial.png">
+<img src="https://blogs.sld.cu/modelos/files/2021/02/Fig10.png">
 <h1 align="center">Hello I'm Stiven
 </div>  
 <h1 align="center"> <a href=>DATABASE REPOSITORY OF SOME PHYSIOLOGICAL PARAMETERS TAKEN IN A LABORATORY FROM 56 DIFFERENT SUBJECTS                         
-https://blogs.sld.cu/modelos/files/2021/02/Fig10.png
-https://www.researchgate.net/publication/318227414/figure/fig3/AS:650459299729415@1532092990538/Senal-PPG-usado-para-el-envio-tramite-serial.png
+
 <hr>
 
 # 💫 About Me:
